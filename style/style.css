@@ -47,7 +47,7 @@ body{
 #product-description{
     display:flex;
     flex-direction: column;
-    gap: 0.6rem;
+    gap: 1rem;
     width: 45%;
     height: auto;
     margin: 20px;
@@ -91,6 +91,7 @@ body{
 }
 .button {
     width: auto;
+    height: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
